@@ -1,3 +1,8 @@
+develop
+============
+
+Add access to cohort checker results.
+
 CirceR 1.3.3
 ============
 

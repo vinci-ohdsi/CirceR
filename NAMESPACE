@@ -2,6 +2,7 @@
 
 export(buildCohortQuery)
 export(buildConceptSetQuery)
+export(checkCohort)
 export(cohortExpressionFromJson)
 export(cohortPrintFriendly)
 export(conceptSetExpressionFromJson)
