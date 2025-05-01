@@ -24,7 +24,7 @@
 #' @param expression  result of cohortExpressionFromJson containing the cohort expression
 #'
 #' @return 
-#' A jObj
+#' A list of warning messages
 #' 
 #' @export
 checkCohort <- function(expression) {

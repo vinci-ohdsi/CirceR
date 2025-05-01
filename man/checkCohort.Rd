@@ -10,7 +10,7 @@ checkCohort(expression)
 \item{expression}{result of cohortExpressionFromJson containing the cohort expression}
 }
 \value{
-A jObj
+A list of warning messages
 }
 \description{
 Checks a cohort expression for warnings
